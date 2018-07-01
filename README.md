@@ -14,7 +14,7 @@ A two week engineering project at Makers Academy to build a clone of Facebook.
 
 ### Using the app
 http://motherbook.herokuapp.com/
-Or:
+
 * Clone the app
 * Start spring
 * Visit http://localhost:3000/
